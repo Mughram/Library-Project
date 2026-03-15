@@ -1,0 +1,21 @@
+# Compiled class files
+*.class
+
+# BlueJ files
+*.ctxt
+package.bluej
+
+# Log files
+*.log
+
+# Build output
+out/
+bin/
+build/
+
+# IDE files
+.idea/
+*.iml
+.vscode/
+*.project
+*.classpath
